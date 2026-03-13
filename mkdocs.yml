@@ -1,16 +1,16 @@
 # Project information
-site_name: Matematik for Softwareingeniører
-site_url: https://rbrooksdk.github.io/MSE1_DK_25
+site_name: Matematik for Spiludviklere
+site_url: https://rbrooksdk.github.io/MSU1_26
 site_author: Richard Brooks
-site_description: Kursusside for Matematik for Softwareingeniører
+site_description: Kursusside for Matematik for Spiludviklere
 docs_dir: .
 site_dir: ../site
 # Repository information
 repo_name: Github
-repo_url: https://github.com/RBrooksDK/MSE1_DK_25
+repo_url: https://github.com/RBrooksDK/MSU1_26
 
 # Copyright
-copyright: Copyright &copy; 2025 Richard Brooks
+copyright: Copyright &copy; 2026 Richard Brooks
 
 # Configurations
 theme:
