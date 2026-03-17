@@ -1,30 +1,27 @@
 <h1 align="center">Eksamen</h1>
 
 ### Eksamensforudsætninger: 
-Ingen
 
-### Eksamenstype
-Eksamen består af to dele:
+1. Der er krav om mindst 75% fremmøde til undervisningen for at kunne gå til eksamen.
+2. Herudover skal man uploade et summary af sit projekt til Wiseflow for at kunne gå til eksamen.
 
-- Første del er en Flowlock-eksamen i Wiseflow.
-- Anden del er en Wiseflow-eksamen uden Flowlock.
-- 
-Anden del skal gennemføres i Jupyter Notebook, og svarene skal indsendes i Wiseflow.
+Ved manglende opfyldelse af eksamensforudsætning 1, skal den studerende gennemføre en skriftlig opgave i WISEflow for at blive indstillet til reeksamen.
 
-Del 1 har en varighed på 3 timer, og del 2 har en varighed på 1 time. Eksamen har en samlet varighed på 4 timer.
+Denne opgave planlægges efter den ordinære eksamen.
 
-Den studerende vil ikke kunne få adgang til anden del, før første del er afsluttet.
+Eksamensforudsætning 2 kan ikke afhjælpes af erstatningsopgave.
 
-### Tilladte hjælpemidler 
-I første del må de studerende bruge noter, bøger og/eller andet skriftligt/trykt materiale og vil have adgang til PDF-filer på deres bærbare computer.
+### Eksamensform
+Individuel mundtlig eksamen, 20 minutter.
 
-Til første (og anden) del må de studerende medbringe egen lommeregner, men får også adgang til en online lommeregner, som kan anvendes under eksamen.
+Eksamen tager afsæt i et gruppeprojekt, afleveret (i WISEflow) i henhold til deadline. Emnet for gruppeprojektet er selvvalgt fra pensum og skal godkendes af underviseren. Projektet skal indeholde praktiske anvendelser af det selvvalgte emne.
 
-I anden del er alle supplerende materialer og hjælpemidler tilladt, f.eks. brug af en computer som opslagsværk. Internetadgang er ikke tilladt, medmindre det sker i forbindelse med brug af Wiseflow.
+Der gives én karakter på baggrund af både projektet og den mundtlige eksamen.
 
-Det er dog ikke tilladt at bruge AI-værktøjer som Copilot, ChatGPT, Bing osv.
+Intern bedømmelse.
 
-Kommunikation af enhver art er ikke tilladt under eksamen og vil føre til bortvisning af alle involverede parter fra eksamen.
+### Tilladte hjælpemidler
+Alle hjælpemidler er tilladt til udarbejdelse af projektet. Dog skal den studerende angive kilder, herunder brug af Generativ A.I. og Machine Learning teknologier. Til den mundtlige eksamen skal den studerende medbringe projektet. Såfremt den studerende anvender Generativ A.I. eller Machine Learning teknologier, skal dette angives i projektet, og det forventes at den studerende hvad det genererede materiale betyder for projektet.
 
-### Re-eksamen
-Re-eksamener kan være mundtlige.
+### Reeksamen
+Hvis projektet er mangelfuldt, kan den studerende forbedre og aflevere det igen inden reeksamen, der gennemføres som den ordinære eksamen.

@@ -142,85 +142,49 @@ nav:
     - Sessioner: Sessions/README.md
     - 01 Grundlæggende aritmetik og funktioner:
       - 01/README.md
-      - M1 - Forberedelse: 01/M1.md
-      - M2 - Undervisning 1: 01/M2.md
-      - M3 - Øvelser og tutorials:
-        - 01/M3/index.md
-        - T1 - Regneregler: 01/M3/T1.md
-        - E1 - Øvelser: 01/M3/E1.md
-      - M4 - Undervisning 2: 01/M4.md
+      - Forberedelse: 01/Forberedelse.md
+      - Øvelser: 01/Oevelser.md
+      - Tutorials: 01/Tutorials.md
     - 02 Talsystemer:
       - 02/README.md
-      - M1 - Forberedelse: 02/M1.md
-      - M2 - Undervisning 1: 02/M2.md
-      - M3 - Øvelser og tutorials:
-        - 02/M3/index.md
-        - T1 - Tutorial: 02/M3/T1.md
-        - E1 - Øvelser: 02/M3/E1.md
-      - M4 - Undervisning 2: 02/M4.md
+      - Forberedelse: 02/Forberedelse.md
+      - Øvelser: 02/Oevelser.md
+      - Tutorials: 02/Tutorials.md
     - 03 Mængdelære:
       - 03/README.md
-      - M1 - Forberedelse: 03/M1.md
-      - M2 - Undervisning 1: 03/M2.md
-      - M3 - Øvelser og tutorials:
-        - 03/M3/index.md
-        - T1 - Tutorial: 03/M3/T1.md
-        - E1 - Øvelser: 03/M3/E1.md
-      - M4 - Undervisning 2: 03/M4.md
+      - Forberedelse: 03/Forberedelse.md
+      - Øvelser: 03/Oevelser.md
+      - Tutorials: 03/Tutorials.md
     - 04 Kombinatorik og sandsynlighedsteori:
       - 04/README.md
-      - M1 - Forberedelse: 04/M1.md
-      - M2 - Undervisning 1: 04/M2.md
-      - M3 - Øvelser og tutorials:
-        - 04/M3/index.md
-        - T1 - Tutorial: 04/M3/T1.md
-        - E1 - Øvelser: 04/M3/E1.md
-      - M4 - Undervisning 2: 04/M4.md
+      - Forberedelse: 04/Forberedelse.md
+      - Øvelser: 04/Oevelser.md
+      - Tutorials: 04/Tutorials.md
     - 05 Betingede sandsynligheder og Bayes' Teorem:
       - 05/README.md
-      - M1 - Forberedelse: 05/M1.md
-      - M2 - Undervisning 1: 05/M2.md
-      - M3 - Øvelser og tutorials:
-        - 05/M3/index.md
-        - T1 - Tutorial: 05/M3/T1.md
-        - E1 - Øvelser: 05/M3/E1.md
-      - M4 - Undervisning 2: 05/M4.md
+      - Forberedelse: 05/Forberedelse.md
+      - Øvelser: 05/Oevelser.md
+      - Tutorials: 05/Tutorials.md
     - 06 Beskrivende Statistik:
       - 06/README.md
-      - M1 - Forberedelse: 06/M1.md
-      - M2 - Undervisning 1: 06/M2.md
-      - M3 - Øvelser og tutorials:
-        - 06/M3/index.md
-        - T1 - Tutorial: 06/M3/T1.md
-        - E1 - Øvelser: 06/M3/E1.md
-      - M4 - Undervisning 2: 06/M4.md
+      - Forberedelse: 06/Forberedelse.md
+      - Øvelser: 06/Oevelser.md
+      - Tutorials: 06/Tutorials.md
     - 07 Introduktion til lineær algebra:
       - 07/README.md
-      - M1 - Forberedelse: 07/M1.md
-      - M2 - Undervisning 1: 07/M2.md
-      - M3 - Øvelser og tutorials:
-        - 07/M3/index.md
-        - T1 - Tutorial: 07/M3/T1.md
-        - E1 - Øvelser: 07/M3/E1.md
-      - M4 - Undervisning 2: 07/M4.md
+      - Forberedelse: 07/Forberedelse.md
+      - Øvelser: 07/Oevelser.md
+      - Tutorials: 07/Tutorials.md
     - 08 Vektorer og matricer:
       - 08/README.md
-      - M1 - Forberedelse: 08/M1.md
-      - M2 - Undervisning 1: 08/M2.md
-      - M3 - Øvelser og tutorials:
-        - 08/M3/index.md
-        - T1 - Tutorial: 08/M3/T1.md
-        - E1 - Øvelser: 08/M3/E1.md
-      - M4 - Undervisning 2: 08/M4.md
+      - Forberedelse: 08/Forberedelse.md
+      - Øvelser: 08/Oevelser.md
+      - Tutorials: 08/Tutorials.md
     - 09 Matrixalgebra og determinanter:
       - 09/README.md
-      - M1 - Forberedelse: 09/M1.md
-      - M2 - Undervisning 1: 09/M2.md
-      - M3 - Øvelser og tutorials:
-        - 09/M3/index.md
-        - T1 - Tutorial: 09/M3/T1.md
-        - E1 - Øvelser: 09/M3/E1.md
-      - M4 - Undervisning 2: 09/M4.md
+      - Forberedelse: 09/Forberedelse.md
+      - Øvelser: 09/Oevelser.md
+      - Tutorials: 09/Tutorials.md
     - 10 Differentiering af simple funktioner:
       - 10/README.md
       - M1 - Forberedelse: 10/M1.md

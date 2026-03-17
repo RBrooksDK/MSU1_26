@@ -1,6 +1,6 @@
-<h1 align="center">Øvelser 3: Mængdelære<br></h1>
+<h1 align="center">Øvelser</h1>
 
-I skal lave øvelserne inden timerne torsdag. I kan med fordel lave dem i grupper og diskutere dem indbyrdes. Det er vigtigt, at I forstår opgaverne og kan forklare dem til hinanden. På torsdag diskuterer vi opgaverne, og I skal være klar til at præsentere dem for klassen.
+Øvelserne skal laves i løbet af undervisningen, men I må gerne kigge på dem derhjemme
 
 <style>
 body[data-md-color-scheme] .md-content ol       { list-style-type: lower-alpha; }
@@ -148,7 +148,7 @@ Oversæt mellem set-builder og intervalnotation i \(\mathbb R\).
 
 #### Øvelse 8: Mængdeidentiteter
 
-1. Bevise at \(A \cup (A \cap B) = A\) ved hjælp af fundamentale mængdeidentiteter.
+1. Bevis, at \(A \cup (A \cap B) = A\) ved hjælp af fundamentale mængdeidentiteter.
 
     ??? answer "&nbsp;"
 
@@ -161,7 +161,7 @@ Oversæt mellem set-builder og intervalnotation i \(\mathbb R\).
         \end{aligned}
         \]
 
-2. Bevise at \(\left(A \cap A^{c}\right) \cup (A \cap B) \cup \left(A^{c} \cap B\right) = B\) ved hjælp af mængdeidentiteter.
+2. Bevis, at \(\left(A \cap A^{c}\right) \cup (A \cap B) \cup \left(A^{c} \cap B\right) = B\) ved hjælp af mængdeidentiteter.
 
     ??? answer "&nbsp;"
 
@@ -175,7 +175,7 @@ Oversæt mellem set-builder og intervalnotation i \(\mathbb R\).
         \end{aligned}
         \]
 
-3. Bevise at \(\big((A^c \cup B)^c\big) \cup A = A\) ved hjælp af mængdeidentiteter.
+3. Bevis, at \(\big((A^c \cup B)^c\big) \cup A = A\) ved hjælp af mængdeidentiteter.
 
     ??? answer "&nbsp;"
 
@@ -211,17 +211,17 @@ Oversæt mellem set-builder og intervalnotation i \(\mathbb R\).
 I mængdeteori skelner vi mellem endelige, tælleligt uendelige og utælleligt uendelige mængder.  
 En mængde er **tælleligt uendelig** hvis dens elementer kan sættes i en-til-en korrespondance med \(\mathbb{N}=\{0,1,2,\dots\}\).
 
-1. Bevise at mængden af lige heltal \(E=\{2n \mid n\in\mathbb{Z}\}\) er tælleligt uendelig.  
+1. Bevis, at mængden af lige heltal \(E=\{2n \mid n\in\mathbb{Z}\}\) er tælleligt uendelig.  
 
     ??? answer "&nbsp;"
         Definer bijektion \(f:\mathbb{Z}\to E\), \(f(n)=2n\). Derfor \(|E|=|\mathbb{Z}|\).
 
-2. Vis at mængden af rationale tal \(\mathbb{Q}\) er tælleligt uendelig.  
+2. Vis, at mængden af rationale tal \(\mathbb{Q}\) er tælleligt uendelig.  
 
     ??? answer "&nbsp;"
         Arranger brøker \(\tfrac{p}{q}\) i et gitter, traversér diagonalt (Cantor zig-zag), og udelad duplikater. Dette lister alle rationale tal.
 
-3. Argumenter hvorfor mængden af reelle tal \(\mathbb{R}\) er **utællelig**.  
+3. Argumenter, hvorfor mængden af reelle tal \(\mathbb{R}\) er **utællelig**.  
 
     ??? answer "&nbsp;"
         Cantor’s diagonal: givet enhver opregning af decimaler, konstruer et tal der adskiller sig i den \(i\)-te ciffer fra den \(i\)-te indgang. Modsigelse → utællelig.
@@ -229,18 +229,18 @@ En mængde er **tælleligt uendelig** hvis dens elementer kan sættes i en-til-e
 #### Udfordringsøvelse 2: Paradoxer og potensmængden
 For enhver mængde \(S\), har dens potensmængde \(\mathcal{P}(S)\) strengt større kardinalitet end \(S\).  
 
-1. Bevise at ingen funktion \(f:S\to\mathcal{P}(S)\) kan være surjektiv.  
+1. Bevis, at ingen funktion \(f:S\to\mathcal{P}(S)\) kan være surjektiv.  
 
     ??? answer "&nbsp;"
         Antag \(f\) surjektiv. Definer \(T=\{x\in S\mid x\notin f(x)\}\). Så \(T\in\mathcal{P}(S)\).  
         Hvis \(T=f(y)\), modsigelse: \(y\in T\iff y\notin f(y)=T\). Umuligt.  
 
-2. Fortolk hvorfor dette indebærer at der er **ingen største uendelighed**.  
+2. Fortolk, hvorfor dette indebærer, at der er **ingen største uendelighed**.  
 
     ??? answer "&nbsp;"
         Hvis \(|\mathcal{P}(S)|>|S|\), så starter vi med \(\mathbb{N}\), får et hierarki: \(\mathcal{P}(\mathbb{N}), \mathcal{P}(\mathcal{P}(\mathbb{N}))\), osv. Derfor danner uendeligheder en endeløs stige.
 
-3. Reflekter: hvad sker der hvis vi forsøger at anvende denne idé på “mængden af alle mængder”?  
+3. Reflekter, hvad sker der, hvis vi forsøger at anvende denne idé på “mængden af alle mængder”?  
 
     ??? answer "&nbsp;"
         Leder til **Russell’s paradoks**: “mængden af alle mængder der ikke indeholder sig selv” giver modsigelse. Undgås i ZFC-aksiomer.
@@ -259,12 +259,12 @@ For \(A \subseteq \{0,1,2,\dots,n-1\}\), definer $\operatorname{code}(A)=\sum_{i
     ??? answer "&nbsp;"
         \(45=32+8+4+1=2^5+2^3+2^2+2^0\). Delmængde: \(\{0,2,3,5\}\).  
 
-3. Forklar hvorfor denne kodning giver en bijektion mellem \(\mathcal{P}(\{0,1,\dots,n-1\})\) og heltalene \(0,1,\dots,2^n-1\).  
+3. Forklar, hvorfor denne kodning giver en bijektion mellem \(\mathcal{P}(\{0,1,\dots,n-1\})\) og heltalene \(0,1,\dots,2^n-1\).  
 
     ??? answer "&nbsp;"
         Hver delmængde har en unik binær maske, og hver binær streng svarer til præcis én delmængde. Derfor bijektion.
 
-4. Hvordan forbinder denne idé sig til datalogi (bitsets, databaser, logik)?  
+4. Hvordan forbinder denne idé sig til datalogi (bitsets, databases, logik)?  
 
     ??? answer "&nbsp;"
         Det er grundlaget for bitsets, tilladelsesflag og sandhedstabeller: delmængder lagret som heltal muliggør effektiv beregning.

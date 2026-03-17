@@ -1,4 +1,4 @@
-<h1 align="center">Tutorial 3: Mængdelære</h1>
+<h1 align="center">Tutorials</h1>
 
 Efter denne tutorial vil du kunne:
 

@@ -1,4 +1,4 @@
-﻿<h1 align="center">M1: Forberedelse før den første undervisning</h1>
+<h1 align="center">Forberedelse før den første undervisning</h1>
 
 At forberede sig betyder ikke nødvendigvis at læse alt materiale fra start til slut. Det handler i stedet om at identificere og fokusere på det indhold, der er mest relevant for dig og din forberedelse til undervisningen. Jeg forventer dog, at du har gennemgået og forstået materialet fra videoerne. Du kan teste din viden i quizzen, hvor en forståelse anses som tilstrækkelig, hvis du kan svare korrekt på mindst 7 ud af 10 spørgsmål.
 

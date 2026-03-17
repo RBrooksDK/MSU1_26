@@ -1,6 +1,6 @@
-<h1 align="center">Øvelser 9:<br>Matrix algebra og invertible matricer</h1>
+<h1 align="center">Øvelser</h1>
 
-I skal lave øvelserne inden timerne torsdag. I kan med fordel lave dem i grupper og diskutere dem indbyrdes. Det er vigtigt, at I forstår opgaverne og kan forklare dem til hinanden. På torsdag diskuterer vi opgaverne, og I skal være klar til at præsentere dem for klassen.
+Øvelserne skal laves i løbet af undervisningen, men I må gerne kigge på dem derhjemme
 
 <style>
 body[data-md-color-scheme] .md-content ol       { list-style-type: lower-alpha; }

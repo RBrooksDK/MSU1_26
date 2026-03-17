@@ -12,6 +12,14 @@ Bogen "Matematik for Softwareingeniører" er den primære lærebog for kurset og
 ## 3blue1brown
 [3blue1brown](https://www.3blue1brown.com/) er en YouTube-kanal, der giver visuelle forklaringer af forskellige matematiske begreber, herunder lineær algebra. Videoerne er engagerende og kan hjælpe dig med at forstå materialet bedre. Kanalen drives af Grant Sanderson, som har en evne til at gøre komplekse emner tilgængelige og sjove. Videoerne er velproducerede og inkluderer ofte animationer, der illustrerer de diskuterede begreber. [Essence of Linear Algebra](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&si=XoMhr3pWWvTMMs9a) er bestemt værd at se, men det dækker ikke alt materialet i kurset.
 
+## Math for Game Devs
+
+Jeg synes egentlig Freya Holmér's [Math for Game Devs](https://www.youtube.com/watch?v=fjOdtSu4Lm4&list=PLImQaTpSAdsArRFFj8bIfqMk2X7Vlf3XF) er en god ressource. Den falder i 10 dele og dækker meget godt det vi skal igennem. Dette som supplement til bogen og mine videoer.
+
+Men der er rigtig mange gode ressourcer på Youtube. Blot søg efter "Math for Game Developers" og I vil finde en masse gode videoer.
+
+<hr>
+
 Her er en liste over online ressourcer med links, der dækker de emner, vi skal igennem.
 
 ## Kursusemner

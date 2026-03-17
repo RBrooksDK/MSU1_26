@@ -1,4 +1,4 @@
-<h1 align="center">Tutorial 5: Betingede sandsynligheder og Bayes' Teorem</h1>
+<h1 align="center">Tutorials</h1>
 
 Efter denne tutorial vil du kunne:
 

@@ -1,6 +1,6 @@
-<h1 align="center">Øvelser 6:<br>Beskrivende Statistik</h1>
+<h1 align="center">Øvelser</h1>
 
-I skal lave øvelserne inden torsdagens undervisning. Det er en fordel at arbejde i grupper og drøfte opgaverne sammen. Det vigtigste er, at I forstår opgaverne og kan forklare dem til hinanden. På torsdag gennemgår vi opgaverne, og I skal være klar til at præsentere jeres løsninger for klassen.
+Øvelserne skal laves i løbet af undervisningen, men I må gerne kigge på dem derhjemme
 
 <style>
 body[data-md-color-scheme] .md-content ol       { list-style-type: lower-alpha; }

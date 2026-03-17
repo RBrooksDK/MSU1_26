@@ -1,4 +1,4 @@
-<h1 align="center">Tutorial 7: Lineær Algebra og Ligningssystemer</h1>
+<h1 align="center">Tutorials</h1>
 
 Efter denne tutorial vil du kunne:
 

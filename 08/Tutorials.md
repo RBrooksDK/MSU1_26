@@ -1,4 +1,4 @@
-<h1 align="center">Tutorial 1: Vektorer og Matricer</h1>
+<h1 align="center">Tutorials</h1>
 
 Efter denne tutorial vil du kunne:
 

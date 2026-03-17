@@ -6,16 +6,18 @@
     Ja, du kigger på den lige nu! Denne FAQ er designet til at besvare nogle af de mest almindelige spørgsmål om kurset. Hvis du har et spørgsmål, der ikke besvares her, er du velkommen til at kontakte den kursusansvarlige, [Richard Brooks](mailto: rib@via.dk)
 
 ??? question "Hvad handler kurset om?"
-    Kurset dækker en introduktion til udvalgte emner inden for matematik, der har særlig relevans for softwareingeniører. En dybdegående beskrivelse kan findes i [kursusbeskrivelsen](https://www.via.dk/TMH/Courses/matematik-for-softwareingenioerer-ts?education=sw) eller ved at gennemgå beskrivelsen af hver session i Sessionsmenuen.
+    Kurset dækker en introduktion til udvalgte emner inden for matematik, der har særlig relevans for softwareingeniører med speciale i grafik og spiludvikling. En dybdegående beskrivelse kan findes i [kursusbeskrivelsen](https://mit.via.dk/media/mitvia/semesteroverblik/kursusbeskrivelser/softwareingenioer-xr/2.-semester/xr-msu1-1-0) eller ved at gennemgå beskrivelsen af hver session i Sessionsmenuen.
 
 ??? question "Hvordan relaterer kurset sig til studieordningen?"
-    Kurset relaterer sig primært til studieordningen ved at give et fundament for at forstå og anvende matematik i ingeniørmæssig sammenhæng, især inden for data science og machine learning samt computergrafik.
+    Kurset relaterer sig primært til studieordningen ved at give et fundament for at forstå og anvende matematik i softwareudvikling, især inden for grafik og spiludvikling.
 
 ??? question "Hvad er forudsætningerne for kurset?"
     Det er vigtigt, at du har en grundlæggende forståelse af matematik og algebra, da kurset bygger videre på disse emner. Det anbefales at have gennemgået gymnasiets matematikpensum, især emner som funktioner, ligninger og grundlæggende algebra.
 
 ??? question "Er fremmøde obligatorisk?"
-    Fremmøde er ikke obligatorisk, men det anbefales kraftigt. Kurset er designet til at være interaktivt og praktisk, så deltagelse vil hjælpe dig med at forstå materialet bedre. Hvis du ikke kan deltage i den synkrone del, skal du sørge for at indhente det materiale, der er blevet gennemgået.
+    Fremmøde er obligatorisk og du skal have mindst 75% fremmøde for at blive indstillet til eksamen.
+
+
 
 ---
 
@@ -33,8 +35,8 @@
 ??? question "Hvem skal jeg kontakte, hvis jeg har skemakonflikter?"
     Du kan kontakte vores [skemalægger](mailto: giba@via.dk), hvis du har spørgsmål om skemakonflikter.
 
-??? question "Hvem skal jeg kontakte, hvis jeg vil vide, om dette kursus er obligatorisk for en      kandidatuddannelse, eller om det opfylder et specifikt krav? "
-    Du kan kontakte [Studievejledningen](mailto: eng.studycounselling@via.dk).
+??? question "Hvem skal jeg kontakte, hvis jeg vil vide, om dette kursus er obligatorisk for en kandidatuddannelse, eller om det opfylder et specifikt krav? "
+    Du kan kontakte [Study Councillor](mailto: eng.studycounselling@via.dk).
 
 ---
 
@@ -44,25 +46,25 @@
     Se venligst afsnittet "Eksamen" i fanen foroven for detaljeret information om eksamen.
 
 ??? question "Hvornår afholdes eksamen og reeksamen?"
-    Eksamen afholdes typisk i januar og reeksamen ligger oftest i starten af februar. Du er velkommen til at kontakte [Studieservice](mailto: studieservice.hs@via.dk) for mere information.
+    Eksamen afholdes typisk i juni og reeksamen ligger oftest i starten af august. Du er velkommen til at kontakte [Studieservice](mailto: studieservice.hs@via.dk) for mere information.
 
 ??? question "Hvad er karakterskalaen for kurset?"
     Karakterskalaen for kurset er 7-trinsskalaen.
 
 ??? question "Hvordan beregnes den endelige karakter?"
-    Den endelige karakter beregnes på baggrund af eksamen. Eksamenen består af to dele: en Flowlock-eksamen i Wiseflow og en Wiseflow-eksamen uden Flowlock. De to dele har ikke særskilte vægtninger, og vurderingen og karakteren gives på baggrund af en helhedsvurdering. Se venligst afsnittet "Eksamen" i fanen ovenfor for mere information.
+    Det gives som en helhedsvurdering af projektet og den mundtlige eksamen. Se venligst sektionen "Eksamen" i menuen til venstre for mere information.
 
 ??? question "Hvordan foregår reeksamen?"
-    Reeksamen kan være mundtlig. Se venligst afsnittet "Eksamen" i fanen ovenfor for mere information.
+    Reeksamen har samme form som eksamen.
 
 ??? question "Hvad sker der, hvis jeg dumper eksamen?"
-    Hvis du dumper eksamen, får du mulighed for at tage en reeksamen. Se venligst afsnittet "Eksamen" i fanen ovenfor for mere information.
+    Hvis du dumper eksamen, får du mulighed for at tage en reeksamen. Se venligst sektionen "Eksamen" i menuen til venstre for mere information.
 
 ??? question "Hvad sker der, hvis jeg dumper reeksamen?"
-    Hvis du dumper reeksamen, skal du vente, til kurset afholdes igen, for at tage eksamen igen. I særlige tilfælde kan vi muligvis tilbyde dig en mundtlig reeksamen. Se venligst afsnittet "Eksamen" i fanen ovenfor for mere information.
+    Hvis du dumper reeksamen, skal du vente, indtil kurset afholdes igen, for at tage eksamen. I særlige tilfælde kan vi muligvis tilbyde dig en ekstra reeksamen. Se venligst sektionen "Eksamen" i menuen til venstre for mere information.
 
 ??? question "Hvor mange procentpoint skal jeg have for at bestå eksamen?"
-    Eksamen bedømmes efter 7-trinsskalaen. For at bestå eksamen skal du have en karakter på 02 eller højere. For at opnå 02 skal du score mindst 50% af de samlede point på eksamen. Denne score kan variere fra år til år, men er aldrig højere end 50%.
+    Eksamen bedømmes efter 7-trins skalaen. For at bestå eksamen skal du opnå en karakter på mindst 02.
 
 ---
 
