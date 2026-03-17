@@ -16,6 +16,7 @@ copyright: Copyright &copy; 2026 Richard Brooks
 theme:
   name: material
   language: da
+  default_theme: default
   # custom_dir: overrides
   favicon: billeder/vialogo_white.png
   logo: billeder/vialogo.png
@@ -49,14 +50,12 @@ theme:
     - toc.follow
     # - toc.integrate
   palette:
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
+    - scheme: default
       accent: orange
       toggle:
         icon: material/toggle-switch
         name: Switch to dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
+    - scheme: slate
       primary: custom
       accent: orange
       toggle:
