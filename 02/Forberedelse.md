@@ -16,6 +16,12 @@ Brooks: [Kapitel 2](https://docs.google.com/viewer?url=https://raw.githubusercon
 
 [Noter fra videomateriale](https://drive.google.com/file/d/1vocWuwA3bg1klUZdWqGSoHnx08vqX1I8/view?usp=sharing)
 
+[Øvelser fra sidst](https://drive.google.com/file/d/1CCp6ydEviWr3Do8Ht7WFbeHW70WDd4sT/view?usp=sharing)
+
+[Øvelser fra i dag](https://drive.google.com/file/d/1flwxGegtgiX1G7xJUE5OvbwnojVcCTbG/view?usp=sharing)
+
+[Regneeksempler](https://drive.google.com/file/d/1Uriz54RiqP0eKau5F3p7GFs3Y68HFV72/view?usp=sharing)
+
 [Andre materialer](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/EqAdL2IjxBJIuhBYvL12T8QBaS3fV4FBRbkdF18Koob8sQ?e=GcJahD)
 
 
