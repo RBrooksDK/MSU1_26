@@ -197,14 +197,14 @@ content:
 ---
 
 <?quiz?>
-question: Hvad er sandsynligheden for unionen P(A ∪ B) hvis A og B er hændelser?
-answer: P(A ∪ B) = P(A) + P(B)
-answer-correct: P(A ∪ B) = P(A) + P(B) - P(A ∩ B)
-answer: P(A ∪ B) = P(A) · P(B)
-answer: P(A ∪ B) = P(A) - P(B)
-answer: P(A ∪ B) = P(A ∩ B)
+question: Hvad er den vigtigste idé med Bayes' teorem i praksis?
+answer: At beregne sandsynligheden for to hændelser på én gang
+answer-correct: At opdatere en sandsynlighed, når man får ny information
+answer: At afgøre om to hændelser altid er uafhængige
+answer: At erstatte loven om total sandsynlighed
+answer: At finde komplementet til en hændelse
 content:
-<p><strong>Forklaring:</strong> Sandsynligheden for unionen af to hændelser er P(A ∪ B) = P(A) + P(B) - P(A ∩ B). Vi trækker P(A ∩ B) fra for at undgå at tælle fællesmængden dobbelt.</p>
+<p><strong>Forklaring:</strong> Bayes' teorem bruges til at opdatere vores vurdering (a posteriori), når vi får ny evidens. Det er netop forbindelsen mellem a priori viden og ny information.</p>
 <?/quiz?>
 
 

@@ -192,9 +192,9 @@ har reelle løsninger?
 
 [Løsning](Solution7.pdf)
 
-#### Udfordringsøvelse 2: Binomisk Sætning
+#### Udfordringsøvelse 2: Binomial Sætning
 
-Binomisk udvidelsesformel:
+Binomial expansion:
 
 $$
 (a+b)^n=\sum_{k=0}^n\binom{n}{k} a^{n-k} b^k
@@ -206,27 +206,27 @@ $$
 $$
 
 hvor $\binom{n}{k}=\frac{n!}{k!(n-k)!}$ er den binomiske koefficient
-Den generelle term i den binomiske udvidelse:
+Det generelle led i den binomiale expansion:
 
 $$
 T_{k+1}=\binom{n}{k} a^{n-k} b^k, \quad k=0,1,2 \ldots, n
 $$
 
-Vigtig egenskab: Antallet af termer i den binomiske udvidelse af $(a+b)^n$ er $n+1$.
+Vigtig egenskab: Antallet af led i den binomiale expansion af $(a+b)^n$ er $n+1$.
 
-1. Skriv den binomiske udvidelse af $(a+2 b)^4$. Hint: Du kan bruge Pascals trekant til nemt at skrive de binomiske koefficienter ned.
+1. Skriv den binomiale expansion af $(a+2 b)^4$. Hint: Du kan bruge Pascals trekant til nemt at skrive de binomiale koefficienter ned.
 
     ??? answer "&nbsp;"
 
         1. $a^4+8 a^3 b+24 a^2 b^2+32 a b^3+16 b^4$
 
-2. Find den 5. term i udvidelsen af $(\sqrt{x}+x)^{10}$
+2. Find det 5. led i udvidelsen af $(\sqrt{x}+x)^{10}$
 
     ??? answer "&nbsp;"
 
         1. $210 x^7$
 
-3. Bestem termen, der indeholder $x^6$ i udvidelsen af $\left(x+\frac{1}{2} y\right)^9$.
+3. Bestem ledet, der indeholder $x^6$ i udvidelsen af $\left(x+\frac{1}{2} y\right)^9$.
 
     ??? answer "&nbsp;"
 
