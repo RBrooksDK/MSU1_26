@@ -82,7 +82,7 @@ Se diagrammet ovenfor, der viser den kumulerede relative frekvens for levetiden 
 
     1. Q1 ≈ 900 timer, Q3 ≈ 1100 timer
 
-4. Hvad er interkvartilområdet (IQR) for lampelevetiderne? (1)
+4. Hvad er interkvartilbredden (IQR) for lampelevetiderne? (1)
 { .annotate }
 
     1. IQR ≈ 200 timer (Q3 - Q1)
@@ -139,7 +139,7 @@ Følgende datasæt viser alderen på 57 studerende i en klasse:
 
     1. 37
 
-5. Beregn middelværdi (1), median (2), prøvevarians (3) og prøvestandardafvigelse. (4)
+5. Beregn middelværdi (1), median (2), stikprøvens varians (3) og stikprøvens standardafvigelse. (4)
 { .annotate }
 
     1. Middelværdi: \(23.60\)
@@ -147,7 +147,7 @@ Følgende datasæt viser alderen på 57 studerende i en klasse:
     3. Prøvevarians: \(38.74\)
     4. Prøvestandardafvigelse: \(6.22\)
 
-6. Find \(P_{10}\) (1), \(P_{90}\) (2) og interkvartilområdet (IQR). (3)
+6. Find \(P_{10}\) (1), \(P_{90}\) (2) og interkvartilbredden (IQR). (3)
 { .annotate }
 
     1. \(P_{10} = 19\)
@@ -194,7 +194,7 @@ Boxplottet nedenfor viser fordelingen af vægtene:
 
     1. Q1 ≈ 0.98 kg, Q3 ≈ 1.03 kg
 
-3. Beregn interkvartilområdet (IQR). (1)
+3. Beregn interkvartilbredden (IQR). (1)
 { .annotate }
 
     1. IQR ≈ 0.05 kg
