@@ -16,7 +16,7 @@ Brooks: [Kapitel 6](https://docs.google.com/viewer?url=https://raw.githubusercon
 
 [Noter fra videomateriale](https://viaucdk-my.sharepoint.com/:p:/g/personal/rib_viauc_dk/IQCN3zAS-CiYSJG6LNjqhcVvAVTzuT4fln8ZSr2z-PO8JXc?e=GjWmTf)
 
-[Andre materialer](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/EqVVdPEDkRFImG2F_pAn4C8BaNKeMesysbj3eFJqsKHllw?e=9phPCk)
+[Andre materialer](https://viaucdk-my.sharepoint.com/:f:/g/personal/memo_viauc_dk/IgCOvcgbIM-USrSmFMHiXdy9AeMUv-e3PdBOvOKtUTrhFRM?e=ZKiS46)
 
 
 <hr>

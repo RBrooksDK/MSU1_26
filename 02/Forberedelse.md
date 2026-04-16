@@ -22,7 +22,7 @@ Brooks: [Kapitel 2](https://docs.google.com/viewer?url=https://raw.githubusercon
 
 [Regneeksempler](https://drive.google.com/file/d/1Uriz54RiqP0eKau5F3p7GFs3Y68HFV72/view?usp=sharing)
 
-[Andre materialer](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/EqAdL2IjxBJIuhBYvL12T8QBaS3fV4FBRbkdF18Koob8sQ?e=GcJahD)
+[Andre materialer](https://viaucdk-my.sharepoint.com/:f:/g/personal/memo_viauc_dk/IgCOvcgbIM-USrSmFMHiXdy9AeMUv-e3PdBOvOKtUTrhFRM?e=ZKiS46)
 
 
 <hr>

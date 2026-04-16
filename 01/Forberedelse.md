@@ -16,7 +16,7 @@ Brooks: [Kapitel 1](https://docs.google.com/viewer?url=https://raw.githubusercon
 
 [Regneeksempler](https://drive.google.com/file/d/17rR6Mvbgyg06SThYp4L56Q9XGVwYnZdx/view?usp=sharing)
 
-[Andre materialer](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/IgDvp6IQrIZzRb1FRoq2tN1sAVL19-s7yw2ljq9Ss4CpGr4?e=ndHN69)
+[Andre materialer](https://viaucdk-my.sharepoint.com/:f:/g/personal/memo_viauc_dk/IgCOvcgbIM-USrSmFMHiXdy9AeMUv-e3PdBOvOKtUTrhFRM?e=ZKiS46)
 
 <hr>
 
