@@ -1,22 +1,11 @@
 ---
 tags:
-    - Gradienter
-    - Partiel afledte
-    - Flervariable funktioner
-    - Retningsafledte
-    - Gradientvektor
-    - Kritiske punkter
-    - Lokale ekstrema
-    - Sadelpunkter
-    - Optimering
-    - Gradient descent
+    - Projektarbejde
 ---
 
-<h1 align="center">Gradienter og partiel afledte</h1>
+<h1 align="center">Projektarbejde</h1>
 
-I denne session udforsker vi gradienter og partiel afledte og deres fundamentale betydning for flervariable funktioner og optimeringsproblemer. Vi starter med at definere partiel afledte og gradientvektoren, som er essentielle for forståelsen af funktioner af flere variable og deres anvendelse i machine learning og optimering.
-
-Vi introducerer desuden begreber som lokale ekstrema, sadelpunkter og gradient descent. Der er særlig fokus på anvendelse af gradienter i praktiske optimeringsproblemer, da disse spiller en central rolle i machine learning-algoritmer, neural networks og numeriske optimeringsmetoder.
+Denne session er tilegnet projektarbejde. I arbejder med jeres projekter og får mulighed for vejledning, sparring og at følge op på læringsmål i forhold til opgaven.
 
 
 <div class="grid cards" markdown>

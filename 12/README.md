@@ -1,22 +1,11 @@
 ---
 tags:
-    - Afslutning
-    - Spørgetime
-    - Repetition
-    - Eksamen
-    - Kursusoversigt
-    - Læringsmål
-    - Evaluering
-    - Feedback
-    - Fremtidige emner
-    - Anvendelse
-    - Praktisk brug
-    - Videreuddannelse
+    - Projektarbejde
 ---
 
-<h1 align="center">Afslutning og spørgetime</h1>
+<h1 align="center">Projektarbejde</h1>
 
-Denne mappe indeholder materialerne til 12 Eksamen Forberedelse og Spørgetid - den online session.
+Denne session er tilegnet projektarbejde. I arbejder med jeres projekter og får mulighed for vejledning, sparring og at følge op på læringsmål i forhold til opgaven.
 
 
 <div class="grid cards" markdown>

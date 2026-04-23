@@ -15,8 +15,8 @@ Klik på en session til venstre (eller nedenfor) for at få adgang til en plan f
 | 07      | Uge 17              | [Introduktion til lineær algebra](/MSU1_26/07/) |
 | 08      | Uge 17              | [Vektorer og matricer](/MSU1_26/08/) |
 | 09      | Uge 18              | [Matrixalgebra og determinanter](/MSU1_26/09/) |
-| 10      | Uge 18              | [Differentiering af simple funktioner](/MSU1_26/10/) |
-| 11      | Uge 19              | [Gradienter og partiel afledte](/MSU1_26/11/) |
-| 12      | Uge 19              | [Afslutning og spørgetime](/MSU1_26/12/) |
+| 10      | Uge 18              | [Lineær transformationer og transformationsmatricer](/MSU1_26/10/) |
+| 11      | Uge 19              | [Projektarbejde](/MSU1_26/11/) |
+| 12      | Uge 19              | [Projektarbejde](/MSU1_26/12/) |
 
 </div>
