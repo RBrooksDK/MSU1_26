@@ -217,7 +217,7 @@ For en n x n matrix A er følgende udsagn ækvivalente:
 *   A har n pivotpositioner.
 *   Ligningen $A\mathbf{x} = \mathbf{0}$ har kun den trivielle løsning.
 *   Søjlerne i A er lineært uafhængige.
-*   Ligningen $A\mathbf{x} = \mathbf{b}$ har mindst én løsning for ethvert $\mathbf{b}$ i $\mathbb{R}^n$.
+*   Ligningen $A\mathbf{x} = \mathbf{b}$ har en entydig løsning for ethvert $\mathbf{b}$ i $\mathbb{R}^n$.
 *   $A^T$ er en invertibel matrix.
 
 ## Opsummering
