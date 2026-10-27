@@ -5,6 +5,8 @@ site_author: Richard Brooks
 site_description: Kursusside for Matematik for Spiludviklere
 docs_dir: .
 site_dir: ../site
+exclude_docs: |
+  CLAUDE.md
 # Repository information
 repo_name: Github
 repo_url: https://github.com/RBrooksDK/MSU1_26
