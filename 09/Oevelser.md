@@ -7,7 +7,7 @@ body[data-md-color-scheme] .md-content ol       { list-style-type: lower-alpha; 
 body[data-md-color-scheme] .md-content ol li    { padding-left: 10px; }
 </style>
 
-**[Python]** Betyder at du anbefales at bruge Python til at løse øvelsen. Du kan finde Python-løsningerne [her](https://github.com/RBrooksDK/MSE1_25/blob/main/09/Python_solutions_for_exercises_09.ipynb) eller download dem [her](../Python_solutions_for_exercises_09.ipynb)
+**[Python]** Betyder at du anbefales at bruge Python til at løse øvelsen. Du kan finde Python-løsningerne [her](https://github.com/RBrooksDK/MSE1_25/blob/main/09/Python_solutions_for_exercises_09.ipynb) eller download dem [her](Python_solutions_for_exercises_09.ipynb)
 
 #### Øvelse 1
 1. Bestem ved inspektion om følgende vektormængder er lineært uafhængige eller afhængige. Begrund hvert svar.

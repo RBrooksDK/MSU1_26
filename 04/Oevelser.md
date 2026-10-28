@@ -207,7 +207,7 @@ De mulige fem udfald af et tilfældigt forsøg er lige sandsynlige. Udfaldsrumme
 
     ??? answer "&nbsp;"
 
-        ![](../src/venn1.png){width="300"}
+        ![](src/venn1.png){width="300"}
 
 2. Bestem hver af de følgende sandsynligheder:
 
