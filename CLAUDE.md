@@ -14,4 +14,3 @@ Dansk kursusside for MSU1 (2. semester). Siden hedder "Matematik for Spiludvikle
 - `site_dir: ../site`, dvs. `C:\GitHub\site`, som deles med ALI1_26 og STA_26. Byg til en anden mappe (`mkdocs build --strict -d <mappe>`), hvis flere sites bygges efter hinanden.
 - Ingen `mkdocs-jupyter`.
 - Ingen `.gitignore`. Pas på ikke at committe `.venv/`, `.vscode/` eller byggeoutput.
-- Den lokale `.venv` er i stykker (dens launcher peger på `OneDrive - ViaUC\Arbejde\GitHub\MSE1_DK_25\.venv`). Byg med den globale `mkdocs`, indtil den er genskabt.
